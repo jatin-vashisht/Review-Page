@@ -1,0 +1,15 @@
+export const traits = [
+    "Adventurous",
+    "Clean",
+    "Good listener",
+    "Honest",
+    "Humorous",
+    "Inspiring",
+    "Kind",
+    "Knowledgeable",
+    "Non-judgemental",
+    "Spontaneous",
+    "Talkative",
+    "Thoughtful",
+    "Trustworthy",
+  ]
