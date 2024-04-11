@@ -48,7 +48,7 @@ const ReviewForm = () => {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-white">
+    <div className="flex flex-col h-screen max-w-[450px] mx-auto bg-white">
       <div className="flex flex-col justify-between items-start py-4 px-4">
         <button type="button" className="py-2">
           <svg
